@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👩🏻‍💻 Ana clara Roussin
 
-<!--
-**ana12clara/ana12clara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Ana Clara Roussin, tenho 21 anos e sou apaixonada por criatividade e tecnologia.
+Concluí a faculdade na Una, com o curso Análise e Desenvolvimento de Sistemas. 
+Estou sempre em busca de novos desafios que me permitam expandir conhecimentos, unir criatividade e tecnologia e desenvolver projetos que gerem impacto positivo.
 
-Here are some ideas to get you started:
+### 🤖 Linguagens e Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+
+<br/>
+<br/>
+
+</p>
