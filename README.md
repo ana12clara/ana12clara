@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Ana clara Roussin
+# 👩🏻‍💻 Ana Clara Roussin
 
-Me chamo Ana Clara Roussin, tenho 21 anos e sou apaixonada por criatividade e tecnologia.
+Me chamo Ana Clara, tenho 21 anos e sou apaixonada por criatividade e tecnologia.
 Concluí a faculdade na Una, com o curso Análise e Desenvolvimento de Sistemas. 
-Estou sempre em busca de novos desafios que me permitam expandir conhecimentos, unir criatividade e tecnologia e desenvolver projetos que gerem impacto positivo.
+Estou sempre em busca de novos desafios que me permitam expandir conhecimentos, unir criatividade, tecnologia e desenvolver projetos que gerem impacto positivo.
 
 ### 🤖 Linguagens e Tecnologias
 
